@@ -18,6 +18,9 @@ chain's time constants, and the full report.
 - `genesis_8combo_corrected.csv` — the 8-combination design table: per-combination hiring rate solved to reach 7.8M lamps/year at base productivity
 - `genesis_tableB_gain.csv` — per-combination hiring rate for 1,700 employees and the productivity gain needed to reach 7.8M lamps
 - `baseline_traj.csv`, `recommended_traj.csv` — year-by-year trajectories
+- `report/report.pdf` — compiled report (6 pages)
+- `design_components_dropin.docx`, `design_outline.docx` — Experimental Design section materials (Word drop-in + outline)
+- `genesis_full_sample.docx` — full sample document (`build_full_sample.py` builds it)
 
 ## Key findings
 
